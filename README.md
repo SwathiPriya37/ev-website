@@ -44,3 +44,20 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 The website will run at http://localhost:3000.
+
+##📦 Deployment
+You can deploy this website using:
+
+Netlify
+
+Vercel
+
+GitHub Pages
+
+##🙌 Contributing
+Feel free to open issues or submit pull requests.
+
+##📄 License
+This project is open-source and available under the MIT License.
+
+Made with ⚡ by [Swathi Priya R]
