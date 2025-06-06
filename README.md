@@ -45,7 +45,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 The website will run at http://localhost:3000.
 
-##📦 Deployment
+📦 Deployment
 You can deploy this website using:
 
 Netlify
@@ -54,10 +54,10 @@ Vercel
 
 GitHub Pages
 
-##🙌 Contributing
+🙌 Contributing
 Feel free to open issues or submit pull requests.
 
-##📄 License
+📄 License
 This project is open-source and available under the MIT License.
 
 Made with ⚡ by [Swathi Priya R]
